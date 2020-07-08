@@ -20,6 +20,9 @@ Here is the list of features in this dataset :
 To go further in the analysis, I added a column to this dataset:
 * BMI_range: range of body mass index depending on gender and age; categorical ('too low', 'optimal', 'acceptable', 'too high'). Data web scraped from Table 1 of [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4681110/).
 
+## Dashboard
+
+![](images/dashboard2.png)
 
 ## Tools
 
@@ -29,4 +32,6 @@ To go further in the analysis, I added a column to this dataset:
 * BeautifulSoup
 * Matplotlib
 * Seaborn
+* Tableau
+* Inkscape
 
